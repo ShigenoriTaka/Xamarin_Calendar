@@ -1,0 +1,12 @@
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/bin/Debug/netstandard2.0/Photo_Schedule_Xamarin.deps.json
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/bin/Debug/netstandard2.0/Photo_Schedule_Xamarin.dll
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/bin/Debug/netstandard2.0/Photo_Schedule_Xamarin.pdb
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/obj/Debug/netstandard2.0/Photo_Schedule_Xamarin.csprojAssemblyReference.cache
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/obj/Debug/netstandard2.0/Photo_Schedule_Xamarin.csproj.CoreCompileInputs.cache
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/obj/Debug/netstandard2.0/Photo_Schedule_Xamarin.AssemblyInfoInputs.cache
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/obj/Debug/netstandard2.0/Photo_Schedule_Xamarin.AssemblyInfo.cs
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/obj/Debug/netstandard2.0/Photo_Schedule_Xamarin.dll
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/obj/Debug/netstandard2.0/Photo_Schedule_Xamarin.pdb
