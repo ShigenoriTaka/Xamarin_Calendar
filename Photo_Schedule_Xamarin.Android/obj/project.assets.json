@@ -1092,11 +1092,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.Android/Photo_Schedule_Xamarin.Android.csproj",
+      "projectUniqueName": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/Photo_Schedule_Xamarin.Android.csproj",
       "projectName": "Photo_Schedule_Xamarin.Android",
-      "projectPath": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.Android/Photo_Schedule_Xamarin.Android.csproj",
+      "projectPath": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/Photo_Schedule_Xamarin.Android.csproj",
       "packagesPath": "/Users/takahashijiten/.nuget/packages/",
-      "outputPath": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.Android/obj/",
+      "outputPath": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1111,8 +1111,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.csproj": {
-              "projectPath": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.csproj"
+            "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.csproj": {
+              "projectPath": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.csproj"
             }
           }
         }

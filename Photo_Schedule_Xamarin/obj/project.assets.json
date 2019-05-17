@@ -468,11 +468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.csproj",
+      "projectUniqueName": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.csproj",
       "projectName": "Photo_Schedule_Xamarin",
-      "projectPath": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.csproj",
+      "projectPath": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin.csproj",
       "packagesPath": "/Users/takahashijiten/.nuget/packages/",
-      "outputPath": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Photo_Schedule_Xamarin/obj/",
+      "outputPath": "/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

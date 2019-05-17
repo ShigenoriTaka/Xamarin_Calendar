@@ -14,4 +14,3 @@ namespace Photo_Schedule_Xamarin
         }
     }
 }
-デバッグ
