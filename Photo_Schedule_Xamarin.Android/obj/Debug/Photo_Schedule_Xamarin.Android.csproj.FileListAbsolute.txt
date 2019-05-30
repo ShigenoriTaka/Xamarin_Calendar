@@ -332,3 +332,4 @@
 /Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Debug/android/assets/machine.config
 /Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Debug/stamp/_CompileToDalvik.stamp
 /Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
+/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Debug/android/assets/System.Runtime.dll

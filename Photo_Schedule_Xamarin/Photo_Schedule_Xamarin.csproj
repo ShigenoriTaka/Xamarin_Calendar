@@ -19,6 +19,7 @@
     <Compile Remove="Calendar_Form.xaml.cs" />
     <Compile Remove="Calendar_View.cs" />
     <Compile Remove="TestViewCell.xaml.cs" />
+    <Compile Remove="Calendar.xaml.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Remove="Calendar_Form.xaml" />

@@ -13,8 +13,6 @@ namespace Photo_Schedule_Xamarin
     [DesignTimeVisible(true)]
     public partial class MainPage : ContentPage
     {
-        public float x { get; set; }
-        public float y { get; set; }
 
         public MainPage()
         {
@@ -22,50 +20,29 @@ namespace Photo_Schedule_Xamarin
             EmptyClass Test4 = new EmptyClass();
             Test4.test3();
 
-            StackLayout layout = new StackLayout
-            {
-                Spacing = 0
-            };
-            layout.Orientation = StackOrientation.Vertical;
-            layout.Padding = new Thickness(10, 10);
-            
-
-            RelativeLayout Imeagelayout = new RelativeLayout
-            {
-                VerticalOptions = LayoutOptions.Start,
-                HeightRequest = 300,
-                BackgroundColor = Color.Yellow
-            };
-
             var Text_01 = new Label();
-            var centerX = Constraint.RelativeToParent(Parent => Parent.Width / 2);
-            var centerY = Constraint.RelativeToParent(Parent => Parent.Height / 2);
-
-            var Text_02 = new Label();
-
-            var Text_03 = new Label();
-
-
-            Imeagelayout.Children.Add(Text_01, centerX, centerY);
-            Imeagelayout.Children.Add(Text_02, centerX, centerY);
-            Imeagelayout.Children.Add(Text_03, centerX, centerY);
-
-            APPTool texttool_Box = new APPTool();
-
-
-            texttool_Box.init(Text_01,Text_02,Text_03);
-            texttool_Box.Texttool(DateTime.Today);
-
-            RelativeLayout Imeagelayout2 = new RelativeLayout
+            var calendar = new StackLayout
             {
-                VerticalOptions = LayoutOptions.Start,
-                HeightRequest = 300,
-                BackgroundColor = Color.Green
+                Children =
+                {
+                    new BoxView // CalendarImege
+                     {
+                        HeightRequest = 300,
+                        BackgroundColor = Color.FromHex("eddc44")
+                    },
+
+                    
+                }
             };
 
-            layout.Children.Add(Imeagelayout);
-            layout.Children.Add(Imeagelayout2);
-            Content = layout;
+            calendar.Children.Add(new Calendar_Page_View(2019, 5, 30));
+
+            Content = calendar;
+
+
+
+         
         }
+       
     }
 }
