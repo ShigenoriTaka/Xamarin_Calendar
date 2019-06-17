@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{994EA40D-D35C-4D7A-84A7-A408299E130B}|Default">
-  <MonoDevelop.Ide.ItemProperties.Photo__Schedule__Xamarin.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Photo_Schedule_Xamarin/Calendar_Page_View.cs">
+  <MonoDevelop.Ide.ItemProperties.Photo__Schedule__Xamarin.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.89NX0CB52" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Photo_Schedule_Xamarin/MainPage.xaml.cs">
     <Files>
-      <File FileName="Photo_Schedule_Xamarin/App.xaml.cs" Line="14" Column="59" />
-      <File FileName="Photo_Schedule_Xamarin/MainPage.xaml.cs" Line="44" Column="10" />
+      <File FileName="Photo_Schedule_Xamarin/App.xaml.cs" Line="14" Column="38" />
+      <File FileName="Photo_Schedule_Xamarin/MainPage.xaml.cs" Line="29" Column="44" />
       <File FileName="Photo_Schedule_Xamarin/MainPage.xaml" />
-      <File FileName="Photo_Schedule_Xamarin/APPTool.cs" Line="19" Column="42" />
-      <File FileName="Photo_Schedule_Xamarin/Calendar_Page_View.cs" Line="12" Column="55" />
+      <File FileName="Photo_Schedule_Xamarin/APPTool.cs" />
+      <File FileName="Photo_Schedule_Xamarin/Calendar_Page_View.cs" Line="50" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

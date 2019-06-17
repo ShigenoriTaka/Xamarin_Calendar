@@ -17,32 +17,28 @@ namespace Photo_Schedule_Xamarin
         public MainPage()
         {
             InitializeComponent();
-            EmptyClass Test4 = new EmptyClass();
-            Test4.test3();
 
-            var Text_01 = new Label();
-            var calendar = new StackLayout
-            {
-                Children =
-                {
-                    new BoxView // CalendarImege
-                     {
-                        HeightRequest = 300,
-                        BackgroundColor = Color.FromHex("eddc44")
-                    },
+            Grid MainPage = new Grid();
+            MainPage.VerticalOptions = LayoutOptions.FillAndExpand;
+            MainPage.HorizontalOptions = LayoutOptions.FillAndExpand;
 
-                    
-                }
-            };
+            MainPage.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
+            MainPage.RowDefinitions.Add(new RowDefinition { Height = new GridLength(1, GridUnitType.Star) });
+            MainPage.RowDefinitions.Add(new RowDefinition { Height = new GridLength(1, GridUnitType.Star) });
 
-            calendar.Children.Add(new Calendar_Page_View(2019, 5, 30));
+            Label view_label = new Label();
+            view_label.Text = "Test";
+            view_label.FontSize = 30;
+            view_label.TextColor = Color.FromHex("504946");
+            view_label.BackgroundColor = Color.FromHex("bee0ce");
+            MainPage.Children.Add(view_label, 0, 0);
 
-            Content = calendar;
-
-
-
-         
+            Calendar_Page_View calnedar_view = new Calendar_Page_View(2019,5,1);
+            MainPage.Children.Add(calnedar_view, 0, 1);
+            calnedar_view.BackgroundColor = Color.FromHex("fff3b8");
+            Content = MainPage;
         }
-       
+        
+
     }
 }
