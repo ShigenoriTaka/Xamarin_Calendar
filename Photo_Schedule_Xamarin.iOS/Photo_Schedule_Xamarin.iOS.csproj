@@ -114,6 +114,10 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\test_Photo.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\test_Photo.imageset\test_photo.png" />
+    <ImageAsset Include="Assets.xcassets\note_line.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\note_line.imageset\test_photo.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -133,5 +137,9 @@
       <Project>{A62AE91B-982D-4AD8-800F-A0F402AF845B}</Project>
       <Name>Photo_Schedule_Xamarin</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets.xcassets\test_Photo.imageset\" />
+    <Folder Include="Assets.xcassets\note_line.imageset\" />
   </ItemGroup>
 </Project>

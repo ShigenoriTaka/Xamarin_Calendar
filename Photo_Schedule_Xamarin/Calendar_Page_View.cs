@@ -94,15 +94,15 @@ namespace Photo_Schedule_Xamarin
                     }
                     if ((j >= 1) && (j <= 5))
                     {
-                        textView.TextColor = Color.FromHex("");
+                        textView.TextColor = Color.FromHex("626063");
                     }
                     if (tenp_day <= 0)
                     {
-                        textView.TextColor = Color.FromHex("");
+                        textView.TextColor = Color.FromHex("abb1ad");
                     }
                     if (tenp_day > month_day)
                     {
-                        textView.TextColor = Color.FromHex("");
+                        textView.TextColor = Color.FromHex("abb1ad");
                     }
 
                     Calendar_Layout.Children.Add(textView, j , i + 1);

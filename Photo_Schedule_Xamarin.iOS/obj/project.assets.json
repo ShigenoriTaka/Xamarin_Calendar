@@ -2,6 +2,20 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
+      "CarouselView.FormsPlugin/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.121934"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -150,6 +164,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "CarouselView.FormsPlugin": "5.2.0",
           "Xamarin.Essentials": "1.0.1",
           "Xamarin.Forms": "3.6.0.264807"
         },
@@ -162,6 +177,20 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
+      "CarouselView.FormsPlugin/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.121934"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -310,6 +339,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "CarouselView.FormsPlugin": "5.2.0",
           "Xamarin.Essentials": "1.0.1",
           "Xamarin.Forms": "3.6.0.264807"
         },
@@ -322,6 +352,20 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
+      "CarouselView.FormsPlugin/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.121934"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -470,6 +514,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "CarouselView.FormsPlugin": "5.2.0",
           "Xamarin.Essentials": "1.0.1",
           "Xamarin.Forms": "3.6.0.264807"
         },
@@ -482,6 +527,20 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
+      "CarouselView.FormsPlugin/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.121934"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -630,6 +689,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "CarouselView.FormsPlugin": "5.2.0",
           "Xamarin.Essentials": "1.0.1",
           "Xamarin.Forms": "3.6.0.264807"
         },
@@ -643,11 +703,34 @@
     }
   },
   "libraries": {
+    "CarouselView.FormsPlugin/5.2.0": {
+      "sha512": "h849lqz0wvmpyiXqCrN7EW+cCGqK5chcefCfS55CkoGMMQx238QWNknUTOl/CvIdZ4bgs0Oztb7kamYXDlQ5mQ==",
+      "type": "package",
+      "path": "carouselview.formsplugin/5.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "carouselview.formsplugin.5.2.0.nupkg.sha512",
+        "carouselview.formsplugin.nuspec",
+        "lib/MonoAndroid/CarouselView.FormsPlugin.Abstractions.dll",
+        "lib/MonoAndroid/CarouselView.FormsPlugin.Android.dll",
+        "lib/UAP10/CarouselView.FormsPlugin.Abstractions.dll",
+        "lib/UAP10/CarouselView.FormsPlugin.UWP.dll",
+        "lib/UAP10/CarouselView.FormsPlugin.UWP.pri",
+        "lib/UAP10/CarouselView.FormsPlugin.UWP/CarouselView.FormsPlugin.UWP.xr.xml",
+        "lib/UAP10/FlipViewControl.xbf",
+        "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll",
+        "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll",
+        "lib/netstandard2.0/CarouselView.FormsPlugin.Abstractions.dll",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll"
+      ]
+    },
     "System.Numerics.Vectors/4.5.0": {
-      "sha512": "nATsBTD2CKr4AYN6eRszhX4sptImWmBJwB/U6XKCWWfnCcrTBw8XSCm3QA9gjppkHTr8OkXUY21MR91D3QZXsw==",
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
       "path": "system.numerics.vectors/4.5.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -690,10 +773,11 @@
       ]
     },
     "Xamarin.Essentials/1.0.1": {
-      "sha512": "TUsMSXqdLEZlx0O3EcWMwOF5e8X3Gh0GX28FlH3q8iyKAQBYd8tV+Ja7tHMplf7D8V4NVCG9ELqx2nk/jPWPew==",
+      "sha512": "cGSje2LlYsCdscPt2zAG4e0Zzr08zc21Cj4DAMub3GR37lc/vzAVwGxco8NeCSzcZs147wYbXkFCXwOr4LUO9A==",
       "type": "package",
       "path": "xamarin.essentials/1.0.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/monoandroid71/Xamarin.Essentials.dll",
         "lib/monoandroid71/Xamarin.Essentials.pdb",
@@ -702,6 +786,7 @@
         "lib/monoandroid80/Xamarin.Essentials.pdb",
         "lib/monoandroid80/Xamarin.Essentials.xml",
         "lib/monoandroid81/Xamarin.Essentials.dll",
+        "lib/monoandroid81/Xamarin.Essentials.dll.mdb",
         "lib/monoandroid81/Xamarin.Essentials.pdb",
         "lib/monoandroid81/Xamarin.Essentials.xml",
         "lib/netstandard1.0/Xamarin.Essentials.dll",
@@ -723,10 +808,11 @@
       ]
     },
     "Xamarin.Forms/3.6.0.264807": {
-      "sha512": "T7gYS3PoGNtp6D7GAX7fF4QzR7NC36NNQSiuEb5TXO8rEqkZGwpC4u/6S62rH0wL3dabWNVpJPPnL5jZvWeoVg==",
+      "sha512": "PbnXpStyxNYJzPrXXMW17F4YeMsFAs6YT9LL2vxObDWCGtaKkLia4UyBPF3Qbhy+lQPeap/ijV1Rlvasp4DFiA==",
       "type": "package",
       "path": "xamarin.forms/3.6.0.264807",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/MonoAndroid10/proguard.cfg",
         "build/Xamarin.Forms.DefaultItems.props",

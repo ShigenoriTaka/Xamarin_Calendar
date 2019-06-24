@@ -1,0 +1,69 @@
+@string/appbar_scrolling_view_behavior;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/rootlayout.xml
+@string/appbar_scrolling_view_behavior;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/shellcontent.xml
+adaptive-icon;obj/Release/res/mipmap-anydpi-v26/icon.xml
+adaptive-icon;obj/Release/res/mipmap-anydpi-v26/icon_round.xml
+alpha;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/anim/enterfromleft.xml
+alpha;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/anim/exittoleft.xml
+android.support.design.widget.AppBarLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.AppBarLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/rootlayout.xml
+android.support.design.widget.AppBarLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/shellcontent.xml
+android.support.design.widget.BottomNavigationView;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/rootlayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/shellcontent.xml
+android.support.design.widget.TabLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/rootlayout.xml
+android.support.design.widget.TabLayout;obj/Release/res/layout/tabbar.xml
+android.support.v4.widget.NestedScrollView;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/rootlayout.xml
+android.support.v4.widget.NestedScrollView;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/shellcontent.xml
+android.support.v7.widget.RecyclerView;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/flyoutcontent.xml
+android.support.v7.widget.Toolbar;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/rootlayout.xml
+android.support.v7.widget.Toolbar;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/shellcontent.xml
+android.support.v7.widget.Toolbar;obj/Release/res/layout/toolbar.xml
+attr;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__attrs.xml
+background;obj/Release/res/mipmap-anydpi-v26/icon.xml
+background;obj/Release/res/mipmap-anydpi-v26/icon_round.xml
+bool;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__defaults.xml
+CarouselView.FormsPlugin.Android.HorizontalViewPager;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/31/jl/res/layout/horizontal_viewpager.xml
+CarouselView.FormsPlugin.Android.VerticalViewPager;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/31/jl/res/layout/vertical_viewpager.xml
+color;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__colors.xml
+color;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__defaults.xml
+color;obj/Release/res/values/colors.xml
+Com.ViewPagerIndicator.CirclePageIndicator;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/31/jl/res/layout/horizontal_viewpager.xml
+Com.ViewPagerIndicator.CirclePageIndicator;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/31/jl/res/layout/vertical_viewpager.xml
+declare-styleable;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__attrs.xml
+dimen;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__defaults.xml
+enum;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__attrs.xml
+foreground;obj/Release/res/mipmap-anydpi-v26/icon.xml
+foreground;obj/Release/res/mipmap-anydpi-v26/icon_round.xml
+FrameLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/bottomtablayout.xml
+ImageView;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/31/jl/res/layout/horizontal_viewpager.xml
+ImageView;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/31/jl/res/layout/vertical_viewpager.xml
+integer;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__defaults.xml
+item;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__styles.xml
+item;obj/Release/res/values/styles.xml
+LinearLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/layout/bottomtablayout.xml
+LinearLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/31/jl/res/layout/horizontal_viewpager.xml
+LinearLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/31/jl/res/layout/vertical_viewpager.xml
+RelativeLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/31/jl/res/layout/horizontal_viewpager.xml
+RelativeLayout;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/31/jl/res/layout/vertical_viewpager.xml
+resources;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/32/jl/res/values/strings.xml
+resources;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/strings.xml
+resources;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__attrs.xml
+resources;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__colors.xml
+resources;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__defaults.xml
+resources;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__styles.xml
+resources;obj/Release/res/values/colors.xml
+resources;obj/Release/res/values/styles.xml
+set;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/anim/enterfromleft.xml
+set;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/anim/enterfromright.xml
+set;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/anim/exittoleft.xml
+set;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/anim/exittoright.xml
+string;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/32/jl/res/values/strings.xml
+string;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/strings.xml
+style;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/33/jl/res/values/vpi__styles.xml
+style;obj/Release/res/values/styles.xml
+translate;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/anim/enterfromleft.xml
+translate;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/anim/enterfromright.xml
+translate;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/anim/exittoleft.xml
+translate;/Users/takahashijiten/Library/Mobile Documents/com~apple~CloudDocs/developer/Photo_Schedule_Xamarin/Xamarin_Calendar/Photo_Schedule_Xamarin.Android/obj/Release/lp/25/jl/res/anim/exittoright.xml
