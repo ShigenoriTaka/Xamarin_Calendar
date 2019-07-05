@@ -1,7 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Photo_Schedule_Xamarin" x:Class="Photo_Schedule_Xamarin.MainPage">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:Photo_Schedule_Xamarin" 
+             x:Class="Photo_Schedule_Xamarin.MainPage"
+             xmlns:cv="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
+             >
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+       <cv:CarouselViewControl
+          VerticalOptions="FillAndExpand"
+          HorizontalOptions="FillAndExpand"
+          Position="0"
+          ShowIndicators="True"
+          ShowArrows="false"
+          ItemsSource="{Binding Carousel_Page_info}">
+          <cv:CarouselViewControl.ItemTemplate>
+            <DataTemplate>
+              <StackLayout VerticalOptions="FillAndExpand"
+                     HorizontalOptions="FillAndExpand">
+                <Label Text="2019" />
+              </StackLayout>
+            </DataTemplate>
+          </cv:CarouselViewControl.ItemTemplate>
+        </cv:CarouselViewControl>
+        
     </StackLayout>
 </ContentPage>

@@ -1,25 +1,24 @@
 ﻿<Properties StartupConfiguration="{994EA40D-D35C-4D7A-84A7-A408299E130B}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.ItemProperties.Photo__Schedule__Xamarin.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Photo_Schedule_Xamarin/MainPage.xaml.cs">
+  <MonoDevelop.Ide.ItemProperties.Photo__Schedule__Xamarin.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.89NX0CB52" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Photo_Schedule_Xamarin/MainPage.xaml">
     <Files>
       <File FileName="Photo_Schedule_Xamarin/App.xaml.cs" Line="15" Column="12" />
-      <File FileName="Photo_Schedule_Xamarin/MainPage.xaml.cs" Line="58" Column="43" />
-      <File FileName="Photo_Schedule_Xamarin/APPTool.cs" />
+      <File FileName="Photo_Schedule_Xamarin/MainPage.xaml.cs" Line="100" Column="13" />
+      <File FileName="Photo_Schedule_Xamarin/APPTool.cs" Line="1" Column="1" />
       <File FileName="Photo_Schedule_Xamarin/Calendar_Page_View.cs" Line="1" Column="1" />
-      <File FileName="Photo_Schedule_Xamarin/Models/Page_info.cs" Line="2" Column="40" />
+      <File FileName="Photo_Schedule_Xamarin/Models/Page_info.cs" Line="10" Column="27" />
+      <File FileName="Photo_Schedule_Xamarin/MainPage.xaml" Line="20" Column="33" />
+      <File FileName="Photo_Schedule_Xamarin.iOS/AppDelegate.cs" Line="27" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Photo_Schedule_Xamarin" expanded="True">
             <Node name="Photo_Schedule_Xamarin" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Models" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="Photo_Schedule_Xamarin.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -27,7 +26,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Photo__Schedule__Xamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.37F7B5D5-62DA-4CE0-BC3B-FCB3D583B010" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
